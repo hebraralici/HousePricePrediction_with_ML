@@ -23,6 +23,6 @@ https://docs.google.com/spreadsheets/d/1k2mj1zjCDkf60YOLArAI8XfrkjMa5sxbRQNZHBe1
 
 
 
-
+Görselliklerle ve yorumlarla desteklediğim notebook:
 Kaggle:
 https://www.kaggle.com/haticeebraralc/housepriceprediction
