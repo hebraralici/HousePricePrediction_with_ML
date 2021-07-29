@@ -10,7 +10,7 @@ projesi gerçekleştirilmektir. Böylece bu evlerin fiyat tahminleri minimum hat
 
 
 # Veri Seti Hikayesi
-* Ames, Lowa’daki konut evlerinden oluşan bu veriseti içerisinde 79 açıklayıcı değişken bulundurmaktadır.
+* Ames, Lowa’daki konut evlerinden oluşan bu veriseti içerisinde 81 açıklayıcı değişken bulundurmaktadır.
 * Veri seti bir kaggle yarışmasına ait olduğundan dolayı train ve test olmak üzere iki farklı csv dosyası üzerinde çalışılmıştır.
 * Test veri setinde ev fiyatları boş bırakılmış olup, bu değerlerin tahmin edilmesi beklenmektedir.
 
